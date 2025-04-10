@@ -12,7 +12,7 @@
 
 </head>
 
-<body>
+<body  class="d-flex flex-column min-vh-100">
 
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-0">

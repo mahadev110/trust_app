@@ -1,5 +1,6 @@
+<div class="d-flex flex-grow-1">
 <!-- sidebar.php -->
-<nav id="sidebar" class="bg-light border-end" style="width: 220px; min-height: 100vh;">
+<nav id="sidebar" class="bg-light border-end" style="width: 220px;">
     <div class="p-3">
         <ul class="nav flex-column">
         <li class="nav-item">

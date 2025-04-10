@@ -1,6 +1,9 @@
 <!-- footer.php -->
-</div> <!-- Close flex-grow-1 -->
-<footer class="bg-light text-center py-3 mt-4">
+</div>
+</div>
+</div>
+<footer class="bg-light border-end text-center py-3 mt-auto">
+
     <p class="mb-0 text-muted">
         &copy; <script>document.write(new Date().getFullYear());</script> EARAM, Puducherry
     </p>

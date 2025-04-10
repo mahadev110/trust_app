@@ -3,11 +3,11 @@ include 'views/layout/header.php';
 include 'views/layout/sidebar.php';
 ?>
 <div class="flex-grow-1 p-4">
-<div class="d-flex justify-content-between align-items-center mb-3">
-    <h4>Donor List</h4>
-    <a href="index.php?page=donor&action=add" class="btn btn-primary">
-        <i class="fas fa-plus me-1"></i> Add Donor
-    </a>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h4>Donor List</h4>
+        <a href="index.php?page=donor&action=add" class="btn btn-primary">
+            <i class="fas fa-plus me-1"></i> Add Donor
+        </a>
     </div>
     <table class="table table-bordered table-striped">
         <thead>
